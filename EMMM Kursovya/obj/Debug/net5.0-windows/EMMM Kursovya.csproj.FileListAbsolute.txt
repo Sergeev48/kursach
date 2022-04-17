@@ -1,0 +1,21 @@
+C:\Users\79042\source\repos\EMMM Kursovya\bin\Debug\net5.0-windows\EMMM Kursovya.exe
+C:\Users\79042\source\repos\EMMM Kursovya\bin\Debug\net5.0-windows\EMMM Kursovya.deps.json
+C:\Users\79042\source\repos\EMMM Kursovya\bin\Debug\net5.0-windows\EMMM Kursovya.runtimeconfig.json
+C:\Users\79042\source\repos\EMMM Kursovya\bin\Debug\net5.0-windows\EMMM Kursovya.runtimeconfig.dev.json
+C:\Users\79042\source\repos\EMMM Kursovya\bin\Debug\net5.0-windows\EMMM Kursovya.dll
+C:\Users\79042\source\repos\EMMM Kursovya\bin\Debug\net5.0-windows\ref\EMMM Kursovya.dll
+C:\Users\79042\source\repos\EMMM Kursovya\bin\Debug\net5.0-windows\EMMM Kursovya.pdb
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM_Kursovya.Form1.resources
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM_Kursovya.Form2.resources
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM_Kursovya.Properties.Resources.resources
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.csproj.GenerateResource.cache
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.AssemblyInfoInputs.cache
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.AssemblyInfo.cs
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.csproj.CoreCompileInputs.cache
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.dll
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\ref\EMMM Kursovya.dll
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.pdb
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.genruntimeconfig.cache
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM Kursovya.csproj.AssemblyReference.cache
+C:\Users\79042\source\repos\EMMM Kursovya\obj\Debug\net5.0-windows\EMMM_Kursovya.Form3.resources
